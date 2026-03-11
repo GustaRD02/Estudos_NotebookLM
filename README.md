@@ -19,6 +19,9 @@ Explorar diferentes caminhos profissionais dentro da cybersegurança, como anál
 
 Criar um material de consulta pessoal, que possa ser revisado e expandido conforme avanço nos estudos.
 
+
+Aqui está o link do meu NotebookLM - https://notebooklm.google.com/notebook/18ab3fed-47f4-4f09-9bf5-8054e4a250be
+
 Compartilhar minha evolução na área através do GitHub.
 
 Este repositório servirá como um diário de aprendizado, documentando minha evolução e descobertas no universo da segurança da informação. 🚀🔐
