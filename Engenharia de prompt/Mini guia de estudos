@@ -1,0 +1,232 @@
+📘 Miniguia de Estudos em Cybersegurança
+
+Este miniguia foi criado como parte de um desafio de projeto de um bootcamp de Cybersegurança. O objetivo é consolidar os principais conhecimentos iniciais da área, registrar conceitos importantes e criar materiais que possam ser reutilizados para revisões futuras.
+
+Este material reúne resumos estruturados, glossário de conceitos e prompts reutilizáveis, servindo como um guia de referência para quem está começando na área.
+
+📚 Resumos Estruturados
+1️⃣ O que é Cybersegurança
+
+Cybersegurança é o conjunto de práticas, tecnologias e processos utilizados para proteger sistemas, redes, dispositivos e dados contra ataques digitais, acessos não autorizados e danos.
+
+O principal objetivo da segurança da informação é proteger três pilares fundamentais conhecidos como Tríade CIA:
+
+Confidencialidade – garantir que apenas pessoas autorizadas tenham acesso à informação.
+
+Integridade – garantir que os dados não sejam alterados de forma indevida.
+
+Disponibilidade – garantir que sistemas e informações estejam acessíveis quando necessários.
+
+2️⃣ Áreas da Cybersegurança
+
+A área de cybersegurança possui diversas especializações. Algumas das principais são:
+
+🔵 Blue Team (Defesa)
+
+Responsável por proteger sistemas e detectar ataques.
+
+Principais atividades:
+
+Monitoramento de redes
+
+Análise de logs
+
+Resposta a incidentes
+
+Implementação de controles de segurança
+
+Ferramentas comuns:
+
+SIEM
+
+IDS/IPS
+
+Splunk
+
+🔴 Red Team (Ataque)
+
+Responsável por simular ataques para encontrar vulnerabilidades.
+
+Principais atividades:
+
+Testes de invasão (Pentest)
+
+Exploração de vulnerabilidades
+
+Engenharia social
+
+Simulação de ataques
+
+Ferramentas comuns:
+
+Kali Linux
+
+Metasploit
+
+Nmap
+
+Burp Suite
+
+🟣 Purple Team
+
+Combina estratégias do Red Team e Blue Team, promovendo colaboração entre defesa e ataque para melhorar a segurança da organização.
+
+3️⃣ Fundamentos Necessários para Iniciar na Área
+
+Antes de se especializar em segurança, é importante dominar alguns fundamentos da área de TI.
+
+🌐 Redes de Computadores
+
+Conhecimentos importantes:
+
+TCP/IP
+
+DNS
+
+Endereçamento IP
+
+Sub-redes
+
+Análise de tráfego
+
+Ferramentas utilizadas:
+
+Wireshark
+
+Nmap
+
+🐧 Sistemas Operacionais
+
+O sistema Linux é amplamente utilizado na área de segurança.
+
+Conhecimentos importantes:
+
+Linha de comando
+
+Permissões de arquivos
+
+Processos do sistema
+
+Gerenciamento de usuários
+
+💻 Programação
+
+A programação ajuda a automatizar tarefas e analisar vulnerabilidades.
+
+Linguagens comuns na área:
+
+Python
+
+Bash
+
+JavaScript
+
+C
+
+4️⃣ Laboratórios e Prática
+
+A prática é essencial para aprender cybersegurança.
+
+Algumas plataformas utilizadas para treinamento:
+
+TryHackMe
+
+Hack The Box
+
+OverTheWire
+
+Também é recomendado criar um laboratório virtual, utilizando ferramentas como:
+
+VirtualBox
+
+VMware
+
+Kali Linux
+
+5️⃣ Certificações Iniciais
+
+Algumas certificações são muito valorizadas para quem está começando:
+
+CompTIA Security+
+
+eJPT (Junior Penetration Tester)
+
+Google Cybersecurity Professional Certificate
+
+Essas certificações ajudam a validar conhecimentos e aumentar as oportunidades no mercado.
+
+📖 Glossário de Conceitos
+
+Cybersegurança
+Área responsável por proteger sistemas e dados contra ataques digitais.
+
+Tríade CIA
+Modelo fundamental da segurança da informação composto por:
+Confidencialidade, Integridade e Disponibilidade.
+
+Pentest (Penetration Testing)
+Teste realizado para identificar vulnerabilidades em sistemas simulando ataques reais.
+
+Malware
+Software malicioso criado para causar danos ou obter acesso não autorizado a sistemas.
+
+Ransomware
+Tipo de malware que bloqueia o acesso aos dados e exige pagamento para liberá-los.
+
+Phishing
+Ataque que tenta enganar usuários para obter informações sensíveis como senhas e dados bancários.
+
+SIEM
+Sistema que coleta e analisa logs para identificar atividades suspeitas em redes.
+
+Zero Trust
+Modelo de segurança baseado no princípio de nunca confiar automaticamente em nenhum acesso.
+
+Vulnerabilidade
+Falha em um sistema que pode ser explorada por um atacante.
+
+Exploit
+Código ou técnica utilizada para explorar uma vulnerabilidade.
+
+🤖 Prompts Reutilizáveis para Estudos
+
+Durante o desenvolvimento deste projeto, foram utilizados prompts para extrair conhecimento com ferramentas de IA. Esses prompts podem ser reutilizados para revisões futuras.
+
+📌 Prompt para visão geral de um tema
+Explique de forma simples e estruturada o que é [tema de cybersegurança], incluindo conceitos principais, exemplos e aplicações práticas.
+
+Exemplo:
+
+Explique de forma simples e estruturada o que é Pentest.
+📌 Prompt para criar roteiro de estudos
+Crie um roadmap de estudos para iniciantes que querem aprender [tema] do nível básico ao avançado.
+
+Exemplo:
+
+Crie um roadmap de estudos para aprender redes voltadas para cybersegurança.
+📌 Prompt para revisão de conceitos
+Crie um resumo simples e um glossário dos conceitos principais sobre [tema].
+
+Exemplo:
+
+Crie um resumo simples e um glossário sobre análise de vulnerabilidades.
+📌 Prompt para prática e exercícios
+Crie exercícios práticos para treinar conhecimentos em [tema de cybersegurança].
+
+Exemplo:
+
+Crie exercícios práticos para treinar análise de tráfego de rede.
+
+🚀 Conclusão
+
+Este miniguia representa um material inicial de estudo sobre Cybersegurança, reunindo conceitos fundamentais, caminhos de aprendizado e ferramentas utilizadas na área.
+
+Além de servir como material de revisão, este projeto também demonstra:
+
+organização de conhecimento
+
+utilização de IA para aprendizado
+
+documentação técnica no GitHub
+
+Com o avanço nos estudos, este guia poderá ser expandido com novos conceitos, ferramentas e práticas da área de segurança da informação.

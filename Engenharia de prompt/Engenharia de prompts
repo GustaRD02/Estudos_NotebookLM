@@ -1,0 +1,58 @@
+🤖 Engenharia de Prompts e Aprendizados
+
+Durante o desenvolvimento deste projeto, utilizei técnicas de engenharia de prompts para extrair informações relevantes sobre a área de Cybersegurança utilizando ferramentas de IA. O objetivo foi estruturar melhor meus estudos e entender possíveis caminhos profissionais dentro da área.
+
+🧩 Prompt 1 – Exploração do Tema
+
+Prompt utilizado:
+
+Pesquise tudo sobre a área de cybersegurança, inclusive caminhos de estudos para se tornar um profissional da área.
+
+Objetivo:
+Obter uma visão geral da área de cybersegurança, incluindo conceitos importantes, áreas de atuação e possíveis caminhos de carreira.
+
+Resultado:
+A IA retornou uma visão ampla sobre o campo da segurança da informação, destacando áreas como Red Team (ataque), Blue Team (defesa), análise de segurança, resposta a incidentes e segurança em nuvem, além de sugerir fundamentos importantes como redes, sistemas operacionais e programação.
+
+🧩 Prompt 2 – Estrutura de Estudos
+
+Prompt utilizado:
+
+Faça uma lista de estudos para iniciantes que querem iniciar na area de cyber segurança de forma bem profissional.
+
+Objetivo:
+Gerar um roteiro estruturado de estudos, com etapas claras para quem deseja iniciar profissionalmente na área.
+
+Resultado resumido:
+
+A IA sugeriu um plano de estudos dividido em fases:
+
+Fundamentos de TI (0–3 meses)
+Estudo de redes, Linux, hardware e programação básica.
+
+Conceitos de Segurança (3–6 meses)
+Tríade CIA, ameaças e vulnerabilidades, além de certificações iniciais como Security+.
+
+Especialização (6–9 meses)
+Escolha entre caminhos como:
+
+Blue Team (defesa, monitoramento e resposta a incidentes)
+
+Red Team (pentest e exploração de vulnerabilidades)
+
+Portfólio e carreira (9–12 meses)
+Construção de laboratório prático, documentação no GitHub e networking na comunidade.
+
+Também foram recomendadas ferramentas e plataformas como Wireshark, Kali Linux, TryHackMe e Hack The Box para prática.
+
+⚠️ Dificuldades Encontradas (Troubleshooting)
+
+Durante a interação com a IA, percebi que:
+
+Perguntas muito genéricas retornam respostas muito amplas.
+
+Ao refinar o prompt, é possível obter respostas mais organizadas e úteis para estudo.
+
+Dividir a pergunta em objetivos específicos ajuda a extrair informações mais práticas.
+
+Esse processo ajudou a melhorar minha forma de formular perguntas estratégicas para IA, habilidade cada vez mais valorizada no mercado de tecnologia.
