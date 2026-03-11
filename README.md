@@ -22,3 +22,10 @@ Criar um material de consulta pessoal, que possa ser revisado e expandido confor
 Compartilhar minha evolução na área através do GitHub.
 
 Este repositório servirá como um diário de aprendizado, documentando minha evolução e descobertas no universo da segurança da informação. 🚀🔐
+
+
+Aqui estão 3 links de fontes que selecionei no NotebookLM:
+1- Equipe Azul vs. Equipe Vermelha em Segurança Cibernética: Diferenças Explicadas (https://grsee.com/resources/pentesting/blue-team-vs-red-team-in-cybersecurity-differences-explained/)
+2- Tendências de cibersegurança para 2026: 5G, IA e defesa de borda moldando o futuro (https://blog.aristacyber.io/2026-cybersecurity-trends-5g-ai-edge-defense)
+3- CONHEÇA A PROFISSÃO CIBERSEGURANÇA | DOCUMENTÁRIO (https://www.youtube.com/watch?v=NBPOCB05o9E)
+
